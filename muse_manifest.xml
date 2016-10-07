@@ -1,0 +1,90 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mit.edu/professional/digital-programs/online-course/boeing" resolutions="1x,2x" timestamp="1470926374202">
+  <folder name="css">
+    <file name="site_global.css" crc="80445801"/>
+    <file name="master_boeing-home-menu.css" crc="253080867" ref="index:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:architecture-and-systems-engineering--course-1--mit-professional-education:faqs:architecture-and-systems-engineering--course-2--mit-professional-education"/>
+    <file name="index.css" crc="319691533" ref="index"/>
+    <file name="architecture-and-systems-engineering--course-3--mit-professional-education.css" crc="364540466" ref="architecture-and-systems-engineering--course-3--mit-professional-education"/>
+    <file name="architecture-and-systems-engineering--course-4--mit-professional-education.css" crc="95721943" ref="architecture-and-systems-engineering--course-4--mit-professional-education"/>
+    <file name="architecture-and-systems-engineering--course-1--mit-professional-education.css" crc="3768319804" ref="architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="faqs.css" crc="180390975" ref="faqs"/>
+    <file name="architecture-and-systems-engineering--course-2--mit-professional-education.css" crc="486308274" ref="architecture-and-systems-engineering--course-2--mit-professional-education"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="museutils.js" crc="3851988764" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="whatinput.js" crc="86476730" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="museconfig.js" crc="169177150" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3985349164" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="relatedofferings3.png" crc="3938324349" ref="index"/>
+    <file name="instructor.jpg" crc="252772296" seo="true" ref="index"/>
+    <file name="table_anova_lova.png" crc="152364268" seo="true" ref="index"/>
+    <file name="middlesection2.jpg" crc="4177190833" seo="true" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education"/>
+    <file name="engineeringcentral_tagline.png" crc="4115314761" seo="true" ref="index"/>
+    <file name="engineeringcentral_tagline_2x.png" crc="35514507" seo="true" ref="index"/>
+    <file name="banner_bg.png" crc="3965997186" ref="index"/>
+    <file name="banner_bg_overlay.png" crc="414823423" seo="true" ref="index"/>
+    <file name="nav.jpg" crc="283248527" seo="true" ref="index"/>
+    <file name="brucecameron.png" crc="283149287" seo="true" ref="index"/>
+    <file name="olivierdeweck.png" crc="4241429706" seo="true" ref="index"/>
+    <file name="warrenhoburg.png" crc="3793291805" seo="true" ref="index"/>
+    <file name="donnarhodes.png" crc="162255883" seo="true" ref="index"/>
+    <file name="adamross.png" crc="406212861" seo="true" ref="index"/>
+    <file name="edcrawley.png" crc="203174217" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u78590_states.png" crc="4274720829" ref="index"/>
+    <file name="u78590_states_2x.png" crc="118199253" ref="index"/>
+    <file name="u78590_states-r.png" crc="4188010111" ref="index"/>
+    <file name="u78590_states-r_2x.png" crc="3780516379" ref="index"/>
+    <file name="mit dome 1_bw-u76131-fr.png" crc="36116218" ref="index"/>
+    <file name="nav_widescreen.png" crc="55832176" seo="true" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="boeing-logosvg.png" crc="4146383122" seo="true" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="boeing-logosvg_2x.png" crc="240077233" seo="true" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="program.png" crc="168588049" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="program_active.png" crc="207555917" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="course1.png" crc="31723853" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="course1_active.png" crc="396293112" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="course2.png" crc="3890201751" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="course2_active.png" crc="4251467096" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="course3.png" crc="329433872" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="course3_active.png" crc="4190221535" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="course4.png" crc="51087380" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="course4_active.png" crc="380661450" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="faq.png" crc="280256222" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="faq_active.png" crc="161814235" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="profedudiv-office-red_left.png" crc="4268693835" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="profedudiv-office-red_left_2x.png" crc="9450310" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="profedudiv-office-graylightgray_left-u79083-r-fr.png" crc="4004710659" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="profedudiv-office-graylightgray_left-u79083-r-fr_2x.png" crc="96699137" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="profedudiv-office-red_right-u79084-fr.png" crc="177672272" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="profedudiv-office-red_right-u79084-fr_2x.png" crc="4278354380" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="profedudiv-office-graylightgray_right-u79084-r-fr.png" crc="3960836005" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="profedudiv-office-graylightgray_right-u79084-r-fr_2x.png" crc="3817778937" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="mitpedigitalprograms_identity_horizontal_white_matt-edit.png" crc="334953894" seo="true" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="mitpedigitalprograms_identity_horizontal_white_matt-edit_2x.png" crc="3885949104" seo="true" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="facebook.png" crc="4103673493" seo="true" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="twitter.png" crc="304411151" seo="true" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="linked_in.png" crc="3852628005" seo="true" ref="index:architecture-and-systems-engineering--course-1--mit-professional-education:architecture-and-systems-engineering--course-2--mit-professional-education:architecture-and-systems-engineering--course-3--mit-professional-education:architecture-and-systems-engineering--course-4--mit-professional-education:faqs"/>
+    <file name="course1_banner_v2.jpg" crc="4008613876" seo="true" ref="architecture-and-systems-engineering--course-1--mit-professional-education"/>
+    <file name="course2_banner_v2.jpg" crc="4179924391" seo="true" ref="architecture-and-systems-engineering--course-2--mit-professional-education"/>
+    <file name="course3_banner_v2.jpg" crc="3883827738" seo="true" ref="architecture-and-systems-engineering--course-3--mit-professional-education"/>
+    <file name="course4_banner_v2.jpg" crc="3927427327" seo="true" ref="architecture-and-systems-engineering--course-4--mit-professional-education"/>
+    <file name="eppinger.png" crc="4083198849" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4143605194" seo="true" mt="1470926344380" redirect="true"/>
+  <file name="architecture-and-systems-engineering--course-1--mit-professional-education.html" crc="460195214" seo="true" mt="1470772015834" redirect="true"/>
+  <file name="architecture-and-systems-engineering--course-2--mit-professional-education.html" crc="458302240" seo="true" mt="1470772023167" redirect="true"/>
+  <file name="architecture-and-systems-engineering--course-3--mit-professional-education.html" crc="24973579" seo="true" mt="1470772028458" redirect="true"/>
+  <file name="architecture-and-systems-engineering--course-4--mit-professional-education.html" crc="4289083601" seo="true" mt="1470772097254" redirect="true"/>
+  <file name="faqs.html" crc="3587205" seo="true" mt="1470847787576" redirect="true"/>
+</manifest>
